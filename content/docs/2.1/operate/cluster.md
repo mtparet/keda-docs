@@ -12,7 +12,7 @@ Here is an overview of all KEDA deployments and the supported replicas:
 
 | Deployment     | Support Replicas        | Reasoning                     |
 |----------------|-------------------------|-------------------------------|
-| Operator       | 1                       |                               |
+| Operator       | 2                       |                               |
 | Metrics Server | 1                       | Limitation in [k8s custom metrics server](https://github.com/kubernetes-sigs/custom-metrics-apiserver/issues/70) |
 
 ## Cluster capacity requirements
